@@ -3,11 +3,11 @@
 I’m someone who does PSS, problem solving as a service, using tech specially web tools, and with a great interest in computer vision.
 
 I work with:
-- 🐍 Python (Flask)
-- 🌐 HTML/CSS
-- 🧰 JavaScript (Vainilla,React)
-- 🖼 C++
-- 🗃 SQL
+- 🐍 Python (Flask).
+- 🌐 HTML/CSS.
+- 🧰 JavaScript (Vainilla,React).
+- 🖼 C++.
+- 🗃 SQL.
 
 # I’m currently ...
 
