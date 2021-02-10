@@ -11,7 +11,6 @@ I work with:
 
 # I’m currently ...
 
-- 💻 Leading a digital transformation of a small company.
 - 🌱 Learning how to build better algorithms.
 - 📚 Reading Atomic Habits.
 
